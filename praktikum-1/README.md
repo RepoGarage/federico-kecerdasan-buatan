@@ -1,4 +1,4 @@
-# Kecerdasan Buatan - Implementasi Dasar
+# Praktikum 1: Pengenalan Dasar Kecerdasan Buatan
 
 Repositori ini berisi implementasi dasar dari beberapa konsep dan algoritma Kecerdasan Buatan, yang disajikan dalam format _notebook_ Jupyter. Proyek ini cocok untuk tujuan pembelajaran dan pemahaman awal tentang prinsip-prinsip AI.
 
@@ -30,7 +30,7 @@ Proyek ini mengeksplorasi implementasi fundamental dari algoritma pencarian klas
 
 ## 3. Struktur Proyek
 
-- `Kecerdasan_Buatan_Basic.ipynb`: Notebook Jupyter utama yang berisi seluruh kode Python, penjelasan, dan demonstrasi dari setiap bagian.
+- `Praktikum_1_Kecerdasan_Buatan.ipynb`: Notebook Jupyter utama yang berisi seluruh kode Python, penjelasan, dan demonstrasi dari setiap bagian.
 
 ## 4. Fungsionalitas
 
@@ -56,7 +56,7 @@ Implementasi "N-Queens Problem" sebagai contoh _Constraint Satisfaction Problem_
 
     ```bash
     git clone [URL_REPOSITORI_ANDA]
-    cd Kecerdasan_Buatan_Basic
+    cd Praktikum_1_Kecerdasan_Buatan
     ```
 
 2.  **Instal Dependensi**:
@@ -70,7 +70,7 @@ Implementasi "N-Queens Problem" sebagai contoh _Constraint Satisfaction Problem_
 1.  **Buka Notebook Jupyter**:
 
     ```bash
-    jupyter notebook Kecerdasan_Buatan_Basic.ipynb
+    jupyter notebook Praktikum_1_Kecerdasan_Buatan.ipynb
     ```
 
 2.  **Jalankan Setiap Sel**:
